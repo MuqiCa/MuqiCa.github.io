@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://MuqiCa.github.io/zh/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://MuqiCa.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://MuqiCa.github.io/zh/blog/"
+                />
+  </url><url>
     <loc>https://MuqiCa.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
