@@ -2,55 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://MuqiCa.github.io/about/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://MuqiCa.github.io/blog/</loc>
+    <loc>https://muqica.github.io/blog/uq/</loc>
+    <lastmod>2025-05-13T04:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/blog/"
+                href="https://muqica.github.io/zh/blog/uq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/blog/"
+                href="https://muqica.github.io/blog/uq/"
                 />
   </url><url>
-    <loc>https://MuqiCa.github.io/categories/</loc>
+    <loc>https://muqica.github.io/blog/net-attack/</loc>
+    <lastmod>2025-05-12T04:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/categories/"
+                href="https://muqica.github.io/zh/blog/net-attack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/categories/"
+                href="https://muqica.github.io/blog/net-attack/"
                 />
   </url><url>
-    <loc>https://MuqiCa.github.io/tags/</loc>
+    <loc>https://muqica.github.io/blog/</loc>
+    <lastmod>2025-05-13T04:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/tags/"
+                href="https://muqica.github.io/zh/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/tags/"
+                href="https://muqica.github.io/blog/"
                 />
   </url><url>
-    <loc>https://MuqiCa.github.io/</loc>
+    <loc>https://muqica.github.io/</loc>
+    <lastmod>2025-05-13T04:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/"
+                href="https://muqica.github.io/"
                 />
+  </url><url>
+    <loc>https://muqica.github.io/about/</loc>
+  </url><url>
+    <loc>https://muqica.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://muqica.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muqica.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://muqica.github.io/publication/</loc>
+  </url><url>
+    <loc>https://muqica.github.io/resources/</loc>
+  </url><url>
+    <loc>https://muqica.github.io/search/</loc>
+  </url><url>
+    <loc>https://muqica.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://muqica.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muqica.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://muqica.github.io/tags/usage/</loc>
   </url>
 </urlset>

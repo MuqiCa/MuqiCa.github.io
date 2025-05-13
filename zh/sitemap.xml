@@ -2,52 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://MuqiCa.github.io/zh/blog/</loc>
+    <loc>https://muqica.github.io/zh/blog/uq/</loc>
+    <lastmod>2025-05-13T04:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/blog/"
+                href="https://muqica.github.io/blog/uq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/blog/"
+                href="https://muqica.github.io/zh/blog/uq/"
                 />
   </url><url>
-    <loc>https://MuqiCa.github.io/zh/categories/</loc>
+    <loc>https://muqica.github.io/zh/blog/net-attack/</loc>
+    <lastmod>2025-05-12T04:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/categories/"
+                href="https://muqica.github.io/blog/net-attack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/categories/"
+                href="https://muqica.github.io/zh/blog/net-attack/"
                 />
   </url><url>
-    <loc>https://MuqiCa.github.io/zh/</loc>
+    <loc>https://muqica.github.io/zh/blog/</loc>
+    <lastmod>2025-05-13T04:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/"
+                href="https://muqica.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/"
+                href="https://muqica.github.io/zh/blog/"
                 />
   </url><url>
-    <loc>https://MuqiCa.github.io/zh/tags/</loc>
+    <loc>https://muqica.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://MuqiCa.github.io/tags/"
+                href="https://muqica.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://MuqiCa.github.io/zh/tags/"
+                href="https://muqica.github.io/zh/categories/"
+                />
+  </url><url>
+    <loc>https://muqica.github.io/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muqica.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://muqica.github.io/zh/tags/"
                 />
   </url>
 </urlset>
